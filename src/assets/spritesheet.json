@@ -1,0 +1,149 @@
+{
+    "bodyTypeName": "male",
+    "url": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light&sex=male&hat=none&arms=Armour_steel&chainmail=Chainmail_gray&legs=Armour_steel&shoes=Boots_charcoal&mustache=none&hair=Spiked_redhead&beard=Basic_Beard_redhead&eyebrows=Thick_Eyebrows_redhead&eyes=Eyes_brown&weapon=Arming_Sword_silver&shield=Shield_kite_gray_green",
+    "spritesheets": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/spritesheets/",
+    "version": 1,
+    "datetime": "12-11-2024, 09:24:49",
+    "credits": "Authors: bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike), JaidynReiman, Matthew Krohn (makrohn), ElizaWy, Carlo Enrico Victoria (Nemisys), kcilds/Rocetti/Eredah, Michael Whitlock (bigbeargames), Johannes Sjölund (wulax), Nila122, DarkwallLKE, Tuomo Untinen (reemax), ElizaWy; walk and down by JaidynReiman\n\n- body/bodies/male/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Evert, Eliza Wyatt (ElizaWy), TheraHedwig, MuffinElZangano, Durrani, Johannes Sj?lund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. see details at https://opengameart.org/content/lpc-character-bases; 'Thick' Male Revised Run/Climb by JaidynReiman (based on ElizaWy's LPC Revised)\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - https://opengameart.org/content/lpc-male-jumping-animation-by-durrani\n    - https://opengameart.org/content/lpc-runcycle-and-diagonal-walkcycle\n    - https://opengameart.org/content/lpc-revised-character-basics\n\n- head/heads/human/male/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. original head by Redshrike; tweaks by BenCreating; modular version by bluecarrot16\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-character-bases\n\n- eyes/human/adult/brown.png: by JaidynReiman, Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. original by Redshrike, mapped to all frames by Matthew Krohn & JaidynReiman\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n\n- eyes/eyebrows/thick/adult/redhead.png: by ElizaWy. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Hair\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- beards/beard/basic/redhead.png: by JaidynReiman, Carlo Enrico Victoria (Nemisys). License(s): CC-BY-SA 3.0, GPL 3.0. Original by Nemisys, repositioning by JaidynReiman.\n    - https://opengameart.org/content/lpc-white-beard\n\n- hair/spiked/male/redhead.png: by kcilds/Rocetti/Eredah. License(s): CC-BY 4.0. \n    - https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing\n    - https://opengameart.org/content/lpc-hair\n\n- arms/armour/plate/male/steel.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - http://opengameart.org/content/lpc-clothing-updates\n\n- torso/chainmail/male/gray.png: by Johannes Sjölund (wulax). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. minor edits by bluecarrot16\n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n\n- legs/armour/plate/male/steel.png: by bluecarrot16, Michael Whitlock (bigbeargames), Johannes Sjölund (wulax). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n\n- feet/boots/male/charcoal.png: by bluecarrot16, Nila122. License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 2.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-clothes-and-hair\n    - https://opengameart.org/content/lpc-santa\n    - http://opengameart.org/content/lpc-clothing-updates\n\n- shield/male/kite_gray_green.png: by DarkwallLKE, Tuomo Untinen (reemax), Michael Whitlock (bigbeargames). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-kite-shield\n    - https://opengameart.org/content/lpc-shields-pack\n\n- weapon/sword/arming/universal/fg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/universal/bg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/attack_slash/bg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/attack_slash/fg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/attack_backslash/bg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/attack_backslash/fg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/attack_halfslash/bg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets\n\n- weapon/sword/arming/attack_halfslash/fg/silver.png: by ElizaWy; walk and down by JaidynReiman. License(s): OGA-BY 3.0. \n    - https://github.com/ElizaWy/LPC/tree/main/Characters/Props/Sword%2001%20-%20Arming%20Sword\n    - https://opengameart.org/content/expanded-universal-lpc-spritesheet-idle-run-jump-lpc-revised-combat-and-assets",
+    "layers": [
+        {
+            "fileName": "weapon/sword/arming/attack_slash/bg/silver.png",
+            "zPos": 8,
+            "custom_animation": "slash_128",
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "weapon/sword/arming/attack_backslash/bg/silver.png",
+            "zPos": 8,
+            "custom_animation": "backslash_128",
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "weapon/sword/arming/attack_halfslash/bg/silver.png",
+            "zPos": 8,
+            "custom_animation": "halfslash_128",
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "weapon/sword/arming/universal/bg/silver.png",
+            "zPos": 9,
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "body/bodies/male/light.png",
+            "zPos": 10,
+            "parentName": "body",
+            "name": "Body color",
+            "variant": "light"
+        },
+        {
+            "fileName": "legs/armour/plate/male/steel.png",
+            "zPos": 20,
+            "parentName": "legs",
+            "name": "Armour",
+            "variant": "steel"
+        },
+        {
+            "fileName": "feet/boots/male/charcoal.png",
+            "zPos": 25,
+            "parentName": "shoes",
+            "name": "Boots",
+            "variant": "charcoal"
+        },
+        {
+            "fileName": "torso/chainmail/male/gray.png",
+            "zPos": 50,
+            "parentName": "chainmail",
+            "name": "Chainmail",
+            "variant": "gray"
+        },
+        {
+            "fileName": "arms/armour/plate/male/steel.png",
+            "zPos": 60,
+            "parentName": "arms",
+            "name": "Armour",
+            "variant": "steel"
+        },
+        {
+            "fileName": "head/heads/human/male/light.png",
+            "zPos": 100,
+            "parentName": "head",
+            "name": "Human male",
+            "variant": "light"
+        },
+        {
+            "fileName": "eyes/human/adult/brown.png",
+            "zPos": 105,
+            "parentName": "eyes",
+            "name": "Eyes",
+            "variant": "brown"
+        },
+        {
+            "fileName": "eyes/eyebrows/thick/adult/redhead.png",
+            "zPos": 106,
+            "parentName": "eyebrows",
+            "name": "Thick Eyebrows",
+            "variant": "redhead"
+        },
+        {
+            "fileName": "beards/beard/basic/redhead.png",
+            "zPos": 110,
+            "parentName": "beard",
+            "name": "Basic Beard",
+            "variant": "redhead"
+        },
+        {
+            "fileName": "shield/male/kite_gray_green.png",
+            "zPos": 110,
+            "parentName": "shield",
+            "name": "Shield",
+            "variant": "kite gray green"
+        },
+        {
+            "fileName": "hair/spiked/male/redhead.png",
+            "zPos": 120,
+            "parentName": "hair",
+            "name": "Spiked",
+            "variant": "redhead"
+        },
+        {
+            "fileName": "weapon/sword/arming/universal/fg/silver.png",
+            "zPos": 140,
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "weapon/sword/arming/attack_slash/fg/silver.png",
+            "zPos": 150,
+            "custom_animation": "slash_128",
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "weapon/sword/arming/attack_backslash/fg/silver.png",
+            "zPos": 150,
+            "custom_animation": "backslash_128",
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        },
+        {
+            "fileName": "weapon/sword/arming/attack_halfslash/fg/silver.png",
+            "zPos": 150,
+            "custom_animation": "halfslash_128",
+            "parentName": "weapon",
+            "name": "Arming Sword",
+            "variant": "silver"
+        }
+    ]
+}
