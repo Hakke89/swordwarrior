@@ -1,0 +1,20 @@
+{
+    "name": "sword-warrior",
+    "version": "1.0.0",
+    "description": "A Phaser project using Vite",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "phaser": "^3.86.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.9.0",
+        "vite": "^4.5.5"
+    },
+    "keywords": [],
+    "author": "Hannes Vandelaer",
+    "license": "ISC"
+}
