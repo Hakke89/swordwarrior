@@ -1,6 +1,15 @@
 // main.ts
 import Phaser from 'phaser';
 import { addPlatform } from "./models/platform";
+import warriorPNG from './assets/img/warrior.png';
+import warriorJSON from './assets/warrior_sprite.json';
+import groundPNG from './assets/img/ground.png';
+import groundJSON from './assets/ground.json';
+import layer1 from './assets/img/summer6/layer1.png';
+import layer2 from './assets/img/summer6/layer2.png';
+import layer3 from './assets/img/summer6/layer3.png';
+import layer4 from './assets/img/summer6/layer4.png';
+import layer5 from './assets/img/summer6/layer5.png';
 
 // Add some CSS margin
 document.body.style.margin = '5px';
@@ -43,15 +52,20 @@ let previousCameraX = 0; // Track the previous scrollX position of the camera
 
 function preload(this: Phaser.Scene) {
     // warrior
-    this.load.atlas('warrior', 'src/assets/warrior.png', 'src/assets/warrior_sprite.json');
+    this.load.atlas('warrior', warriorPNG, warriorJSON);
 
     // ground
-    this.load.atlas('ground', 'src/assets/ground.png', 'src/assets/ground.json');
+    this.load.atlas('ground', groundPNG, groundJSON);
 
     // parallax background
-    for (let i = 1; i <= 5; i++) {
-        this.load.image('background' + i, 'src/assets/PNG/summer6/layer' + i + '.png');
-    }
+    this.load.image('background1', layer1);
+    this.load.image('background2', layer2);
+    this.load.image('background3', layer3);
+    this.load.image('background4', layer4);
+    this.load.image('background5', layer5);
+
+    // this.load.image('background' + i, 'src/assets/PNG/summer6/layer' + i + '.png');
+
 }
 
 function create(this: Phaser.Scene) {
